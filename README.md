@@ -9,5 +9,5 @@
 `*1 Verified that the Datalogger runs on these devices. However, it does NOT mean the datalogger software for Android only runs on these devices. `
 
 ### Instuction manual 
-* Please go and see the [instruction manual](https://jins-meme.github.io/apdoc/en/) for how to start recording.
+* Please go and see the [instruction manual](https://jins-meme.github.io/apdoc/en/with-android/) for how to start recording.
 
