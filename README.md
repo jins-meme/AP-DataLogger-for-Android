@@ -2,7 +2,7 @@
 [Download page](https://github.com/jins-meme/ap-datalogger-for-android/releases)
 
 ### Precaution for use<br>
-1. Supported OS: Android 4, 5, 6,7
+1. Supported OS: Android 4, 5, 6, 7
 2. Supported Device: Android 5, 5x, 6 (*1)
 3. USB dongle bundled with JINS MEME ACADEMIC PACK is needed to run the software.<br>
 4. microUSB - USB adapter (see the image below) is needed to connect the dongle with Android device.
