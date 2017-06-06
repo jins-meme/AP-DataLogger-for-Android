@@ -10,7 +10,3 @@
 <img src="https://cloud.githubusercontent.com/assets/18042520/15853858/d3dbdc64-2ce1-11e6-8841-0c06a6790977.png" alt="logo_JINSMEME" width="218" height="162">
 
 `*1 Verified that the Datalogger runs on these devices. However, it does NOT mean the datalogger software for Android only runs on these devices. `
-
-### Instuction manual 
-* Please go and see the [instruction manual](https://jins-meme.github.io/apdoc/en/with-android/) for how to start recording.
-
