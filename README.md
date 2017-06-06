@@ -1,4 +1,4 @@
-# JINS MEME ES_R (Academic Pack) DataLogger for Android
+## JINS MEME ES_R (Academic Pack) DataLogger for Android
 [Download page](https://github.com/jins-meme/ap-datalogger-for-android/releases)
 
 ### Precaution for use<br>
