@@ -22,6 +22,7 @@ Android端末用のDataLogger(Rawデータの記録のみ）のインストー�
 
 [ダウンロード](https://github.com/jins-meme/ap-datalogger-for-android/releases)
 
+### ご利用の際の注意事項
 1. OS：Android 4.x, 5.x, 6.x, 7.x
 2. サポート端末： Nexus5, 5x, 6(※１）
 3. ドングルとAndroid端末の接続が必要です。
