@@ -11,7 +11,8 @@ Installer(apk file) for DataLogger application for Android.
 3. USB dongle bundled with JINS MEME ACADEMIC PACK is needed to run the software.
 4. microUSB/USB-C to USB(Type-A, female connector) adapter is needed to connect the dongle with Android device.
 Image of micro-USB to UST(Type-A, female connector). 
-　<img src="https://cloud.githubusercontent.com/assets/18042520/15853858/d3dbdc64-2ce1-11e6-8841-0c06a6790977.png" alt="logo_JINSMEME" width="218" height="162">
+
+<img src="https://cloud.githubusercontent.com/assets/18042520/15853858/d3dbdc64-2ce1-11e6-8841-0c06a6790977.png" alt="logo_JINSMEME" width="218" height="162">
 
 `*1 Verified that the Datalogger runs on these devices. DataLogger might run on other android devices but not officially supported.`
 
