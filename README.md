@@ -18,6 +18,8 @@ Image of micro-USB to UST(Type-A, female connector).
 ## Japanese
 Android端末用のDataLogger(Rawデータの記録のみ）のインストーラー（apkファイル）です。
 
+[ダウンロード](https://github.com/jins-meme/ap-datalogger-for-android/releases)
+
 1. OS：Android 4.x, 5.x, 6.x, 7.x
 2. サポート端末： Nexus5, 5x, 6(※１）
 3. ドングルとAndroid端末の接続が必要です。
